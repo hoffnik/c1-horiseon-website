@@ -1,6 +1,6 @@
 [Horiseon deployed URL](https://hoffnik.github.io/c1-horiseon-website/)
 
-![Screenshot of the Horiseon website](/Develop/assets/images/horiseon-website-screenshot.png "Horiseon website screenshot")
+![Screenshot of the Horiseon website](/assets/images/horiseon-website-screenshot.png "Horiseon website screenshot")
 
 # Horiseon Landing Page Code Refactoring
 
